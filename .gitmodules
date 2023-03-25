@@ -1,0 +1,3 @@
+[submodule "src/payload-plugin-lexical"]
+	path = src/payload-plugin-lexical
+	url = https://github.com/AlessioGr/payload-plugin-lexical.git
